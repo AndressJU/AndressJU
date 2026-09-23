@@ -29,3 +29,18 @@
   </p>
 
 </div>
+
+
+### 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AndressJU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressJU&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndressJU&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+</div>
+
+---
+
