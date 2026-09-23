@@ -11,12 +11,6 @@
 
   <br/><br/>
 
-  <!-- 📊 Estadísticas compactas -->
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=AndressJU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressJU&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-
-  <br/><br/>
-
   <!-- 📬 Enlaces directos -->
   <p>
     <a href="https://linkedin.com/in/andres-jauregui-b47312303" target="_blank">
