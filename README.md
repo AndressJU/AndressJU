@@ -1,14 +1,17 @@
 <div align="center">
 
   <h1>¡Hola, soy Andres! 👋</h1>
-  <div align="center">
+ <div align="center">
 
-  <p style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-    <a href="https://andressju.github.io" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; background-color: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); color: #f1f5f9; padding: 10px 20px; border-radius: 9999px; text-decoration: none; font-weight: 500; font-size: 0.95rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-      👁️ Ver CV Online
+  <p>
+    <!-- Botón 1: Ver CV Online (Estilo Neutro Oscuro) -->
+    <a href="https://andressju.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/👁️%20%20Ver%20CV%20Online-121622?style=for-the-badge&logoColor=white&labelColor=121622&color=121622" alt="Ver CV Online" />
     </a>
-    <a href="ENLACE_DE_TU_PDF" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; background-color: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); color: #f1f5f9; padding: 10px 20px; border-radius: 9999px; text-decoration: none; font-weight: 500; font-size: 0.95rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-      📥 Descargar PDF
+    &nbsp;&nbsp;
+    <!-- Botón 2: Descargar PDF (Estilo Azul Acento) -->
+    <a href="ENLACE_DE_TU_PDF" target="_blank">
+      <img src="https://img.shields.io/badge/📥%20%20Descargar%20PDF-090a0f?style=for-the-badge&logoColor=38bdf8&labelColor=090a0f&color=090a0f" alt="Descargar PDF" />
     </a>
   </p>
 
