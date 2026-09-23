@@ -17,7 +17,7 @@
 
   <br/><br/>
 
-  <!-- 📬 Enlaces directos y discretos -->
+  <!-- 📬 Enlaces directos -->
   <p>
     <a href="https://linkedin.com/in/andres-jauregui-b47312303" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -29,7 +29,6 @@
   </p>
 
 </div>
-
 
 ### 📊 Mis Estadísticas de GitHub
 
