@@ -1,7 +1,18 @@
 <div align="center">
 
   <h1>¡Hola, soy Andres! 👋</h1>
-  
+  <div align="center">
+
+  <p style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+    <a href="https://andressju.github.io" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; background-color: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); color: #f1f5f9; padding: 10px 20px; border-radius: 9999px; text-decoration: none; font-weight: 500; font-size: 0.95rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+      👁️ Ver CV Online
+    </a>
+    <a href="ENLACE_DE_TU_PDF" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; background-color: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); color: #f1f5f9; padding: 10px 20px; border-radius: 9999px; text-decoration: none; font-weight: 500; font-size: 0.95rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+      📥 Descargar PDF
+    </a>
+  </p>
+
+</div>
   <p><a href="https://andressju.github.io" target="_blank"><b>🔗 Mi Portafolio</b></a></p>
 
   <!-- 🐍 Animación del Gusano comiéndose el calendario -->
