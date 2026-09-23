@@ -28,17 +28,21 @@
   <br/><br/>
 
   <!-- 📬 Enlaces directos personalizados -->
-  <p style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-    <a href="https://linkedin.com/in/andres-jauregui-b47312303" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.08); color: #f8fafc; padding: 10px 18px; border-radius: 12px; text-decoration: none; font-weight: 500; font-size: 0.9rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-      💼 LinkedIn ↗
+<div align="center">
+
+  <p>
+    <!-- Botón LinkedIn -->
+    <a href="https://linkedin.com/in/andres-jauregui-b47312303" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-121622?style=for-the-badge&logo=linkedin&logoColor=38bdf8&color=121622" alt="LinkedIn" />
     </a>
-    <a href="mailto:andresjauregui802@gmail.com" style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; background: rgba(56, 189, 248, 0.08); border: 1px solid rgba(56, 189, 248, 0.3); color: #38bdf8; padding: 10px 18px; border-radius: 12px; text-decoration: none; font-weight: 500; font-size: 0.9rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-      ✉️ Contactar por Email
+    &nbsp;&nbsp;
+    <!-- Botón Gmail / Email -->
+    <a href="mailto:andresjauregui802@gmail.com">
+      <img src="https://img.shields.io/badge/Email-121622?style=for-the-badge&logo=gmail&logoColor=38bdf8&color=121622" alt="Email" />
     </a>
   </p>
 
 </div>
-
 ---
 
 ### 💻 Stack Tecnológico
