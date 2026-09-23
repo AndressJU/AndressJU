@@ -29,8 +29,8 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AndressJU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressJU&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AndressJU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressJU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
@@ -38,4 +38,3 @@
 </div>
 
 ---
-
