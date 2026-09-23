@@ -1,21 +1,7 @@
 <div align="center">
 
   <h1>¡Hola, soy Andres! 👋</h1>
- <div align="center">
 
-  <p>
-    <!-- Botón 1: Ver CV Online (Estilo Neutro Oscuro) -->
-    <a href="https://andressju.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/👁️%20%20Ver%20CV%20Online-121622?style=for-the-badge&logoColor=white&labelColor=121622&color=121622" alt="Ver CV Online" />
-    </a>
-    &nbsp;&nbsp;
-    <!-- Botón 2: Descargar PDF (Estilo Azul Acento) -->
-    <a href="ENLACE_DE_TU_PDF" target="_blank">
-      <img src="https://img.shields.io/badge/📥%20%20Descargar%20PDF-090a0f?style=for-the-badge&logoColor=38bdf8&labelColor=090a0f&color=090a0f" alt="Descargar PDF" />
-    </a>
-  </p>
-
-</div>
   <p><a href="https://andressju.github.io" target="_blank"><b>🔗 Mi Portafolio</b></a></p>
 
   <!-- 🐍 Animación del Gusano comiéndose el calendario -->
